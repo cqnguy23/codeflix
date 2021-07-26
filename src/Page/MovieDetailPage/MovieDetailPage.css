@@ -1,0 +1,14 @@
+p{
+    color: white
+}
+
+#jumbotron{
+    background-color:  #141414 !important;
+}
+
+.movie-page {
+    background-color:  #141414;
+    height: 100%;
+    padding-top: 30px;
+    color: white
+}
